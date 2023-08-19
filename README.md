@@ -6,7 +6,7 @@
 
 4+ years of experience in React, Angular and Vue.js
 
-4 years of experience in several blockchain networks based on EVM: DApp, Smart Contract development.
+4 years of experience in several blockchain networks, DApp, Smart Contract development.
 
 Strong background in project management and customer relations.
 
