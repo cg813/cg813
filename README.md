@@ -2,7 +2,7 @@
 ## Professional Summary
 🎓 10 years of experience in Software engineering.
 
-6+ years of experience in developing web and microservices using Node.js and Golang
+6+ years of experience in developing web and microservices using Python, Node.js and Golang
 
 4+ years of experience in React, Angular and Vue.js
 
